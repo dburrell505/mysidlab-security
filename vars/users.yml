@@ -1,8 +1,10 @@
 ---
 users:
-  - name: user1
-    aws_groups: "sacramento, fresno, indio"
-  - name: user2
-    aws_groups: "losangeles, sanfransisco, napa"
-  - name: user3
-    aws_groups: "palmsprings, indio, sandiego"
+  - name: snake
+    aws_groups: "alpha"
+  - name: iceman
+    aws_groups: "alpha, beta"
+  - name: joker
+    aws_groups: "alpha, beta, gamma"
+  - name: maverick
+    aws_groups: "beta, gamma"
